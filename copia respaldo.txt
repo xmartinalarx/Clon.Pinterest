@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title class="logo">Pinterest </title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="icon" href="./pinterest.png">
+</head>
+<body>
+<div class="cu"></div>
+<header>
+        <section class="posision">
+            <div >
+                <button class="alt"><img src="./pinterest.png" class="img"></button>
+            </div>
+            <div >
+                <input type="text"class="mov" placeholder="Buscar" size="70">
+            </div>
+            <div>
+            <p class="inicio h_img">Inicio</p>
+            </div>
+            <div>
+                <p class="hoy h_img">Hoy</p>
+            </div>
+            <div>
+                <p class="crear h_img">Crear</p>
+            </div>
+            <div>
+                <p class="alt campana h_img"><img src="./Campana.png" class="img2"></p>
+            </div>
+            <div>
+                <p class="alt chating h_img"><img src="./chat.png" class="img3"></p>
+            </div>
+            <div>
+                    <p class="alt perfil h_img">P</p>
+            </div>
+            <div>
+                <p class="flecha h_img"><img src="./flecha-hacia-abajo-para-navegar.png" class="img" p>
+            </div>
+        </section>
+    </header>
+    <main class="img_pr">
+            <div class="h_img imgcard">
+                <img src="./1.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div class="capa_4">
+            <div class="imgcard" >
+                <img src="./2.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./3.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./4.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+
+            <div class="h_img imgcard">
+                <img src="./5.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./6.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./7.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./8.jpg" alt="">        
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+                </div>
+            <div class="h_img imgcard">
+                <img src="./9.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./10.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./11.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./12.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+    
+            <div class="h_img imgcard">
+                <img src="./13.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./14.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./15.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./16.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+    
+            <div class="h_img imgcard">
+                <img src="./17.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+    
+    
+            <div class="h_img imgcard">
+                <img src="./18.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./19.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./20.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+    
+            <div class="h_img imgcard">
+                <img src="./21.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+            <div class="h_img imgcard">
+                <img src="./22.jpg" alt="">
+                <img src="./download.png" class="capa">
+                <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+            </div>
+                <div class="h_img imgcard">
+                    <img src="./23.jpg" alt="">
+                    <img src="./download.png" class="capa">
+                    <p class="capa_2">Guardar</p>
+                    <img class="capa_3" src="./menu-dots.png">
+                </div>
+                <div class="h_img imgcard">
+                    <img src="./24.jpg" alt="">
+                    <img src="./download.png" class="capa">
+                    <p class="capa_2">Guardar</p>
+                    <img class="capa_3" src="./menu-dots.png">
+                </div>
+
+                <div class="h_img imgcard">
+                    <img src="./25.jpg" alt="">
+                    <img src="./download.png" class="capa">
+                    <p class="capa_2">Guardar</p>
+                    <img class="capa_3" src="./menu-dots.png">
+                </div>
+
+                <div class="h_img imgcard">
+                    <img src="./26.jpg" alt="">
+                    <img src="./download.png" class="capa">
+                    <p class="capa_2">Guardar</p>
+                <img class="capa_3" src="./menu-dots.png">
+                </div>
+                
+                <div class="h_img imgcard">
+                    <img src="./27.jpg" alt="">
+                    <img src="./download.png" class="capa">
+                    <p class="capa_2">Guardar</p>
+                    <img class="capa_3" src="./menu-dots.png">
+                </div>
+                <div class="h_img imgcard">
+                    <img src="./28.jpg" alt="">
+                    <img src="./download.png" class="capa">
+                    <p class="capa_2">Guardar</p>
+                    <img class="capa_3" src="./menu-dots.png">
+            </div>
+
+                <div class="h_img imgcard">
+                    <img src="./29.jpg" alt="">
+                    <img src="./download.png" class="capa">
+                    <p class="capa_2">Guardar</p>
+                    <img class="capa_3" src="./menu-dots.png">
+                </div>
+                <div class="h_img imgcard">
+                    <img src="./30.jpg" alt="">
+                    <img src="./download.png" class="capa">
+                    <p class="capa_2">Guardar</p>
+                    <img class="capa_3" src="./menu-dots.png">
+        </div>
+
+    </main>
+    </body>
+        </html>

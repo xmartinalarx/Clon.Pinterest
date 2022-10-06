@@ -1,0 +1,182 @@
+
+
+*{
+    border-radius: 30px;
+    margin: 0px;
+    padding: 0px;
+   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, "ＭＳ Ｐゴシック", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: var(--font-family-default-latin);
+}
+.cu{
+    background-color: white;
+    position: fixed;
+    width: 2000px;
+    height: 100px;
+    top: 0;
+    border-radius: 0px;
+}
+.posision{
+    position: fixed;
+    top: 0;
+    z-index: 2cm;
+    
+}
+.alt{
+    border-radius: 50%;
+    border-color: transparent;
+    cursor: pointer;
+    align-items: center;
+}
+.img1{
+    width: 30px;
+    left: 40px;
+    margin: 20px;
+    align-items: center;
+    cursor: pointer;
+    
+}
+.img2{
+    width: 60px;
+    left: 50px;
+    align-items: center;
+    cursor: pointer;
+}
+.img3{
+    width: 45px;
+    left: 40px;
+    align-items: center;
+    cursor: pointer;
+}
+.mov{
+    border-radius: 20px;
+    border-color: 232323;
+    position: absolute;
+    left: 350px;
+    top: 28px;
+    background-image: url(./Search.png);
+    background-size: 15px 15px;
+    background-repeat: no-repeat;
+    background-position: 0.1pc;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+}
+.inicio{
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    left: 80px;
+    top: 15px;
+    font-size: 20px;
+    align-items: center;
+    cursor: pointer;
+    padding: 19px 15px;
+}
+.hoy{
+    border-color: transparent;
+    border-radius: 30px;
+    position: absolute;
+    left: 165px;
+    top: 30px;
+    font-size: 25px;
+    align-items: center;
+    cursor: pointer;
+}
+.crear{
+    border-color: transparent;
+    border-radius: 30px;
+    position: absolute;
+    left: 230px;
+    top: 30px;
+    font-size: 25px;
+    align-items: center;
+    cursor: pointer;
+}
+.campana{
+
+    position: absolute;
+    left: 1300px;
+    top: 20px;
+    align-items: center;
+    cursor: pointer;
+    
+}
+.chating{
+    position: absolute;
+    left: 1360px;
+    top: 25px;
+    align-items: center;
+    cursor: pointer;
+}
+.perfil{
+    position: absolute;
+    left: 1420px;
+    top: 20px;
+    align-items: center;
+    cursor: pointer;
+    font-size: 40px;
+}
+.flecha{
+    position: absolute;
+    left: 1430px;
+    top: 0.01em;
+    align-items: center;
+    cursor: pointer;
+    margin: 20px;
+    
+}
+.img_pr{
+    margin-top: 80px;
+    padding: 20px;
+    grid-gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-auto-rows: 200px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+.img_pr img{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.imgcard{
+
+}
+
+.imgcard:nth-child(odd){
+    grid-row-start: span 2;
+}
+
+.capa{
+    height: 24px;
+    width: 24px;
+    background-color: white;
+}
+.capa_2{
+    position: relative;
+    bottom: 200%;
+    left: 40%;
+    border-radius: 30px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    height: 40px;
+    width: 70px;
+    font-size: 20px;
+    align-items: center;
+    cursor: pointer;
+    padding: 10px 15px;
+}
+
+.capa_3{
+    position: relative;
+    bottom: 200%;
+    left: 40%;
+    background-color:white;
+    height: 24px;
+    width: 24px;
+}
